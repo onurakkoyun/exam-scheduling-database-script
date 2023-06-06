@@ -1,1 +1,1 @@
-# exam-scheduling-database-script
+# exam-scheduling-project-database-script
